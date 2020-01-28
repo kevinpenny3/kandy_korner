@@ -1,0 +1,78 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "product": "Hubba Bubba",
+            "productTypeId": 2
+        },
+        {
+            "id": 2,
+            "product": "Hershey Bar",
+            "productTypeId": 3
+        },
+        {
+            "id": 3,
+            "product": "Mountain Dew",
+            "productTypeId": 4
+        },
+        {
+            "id": 4,
+            "product": "Jolly Rancher",
+            "productTypeId": 1
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "address": "344 Lake Street" ,
+            "squareFootage": 500,
+            "handicapAccessible": false 
+        },
+        {
+            "id": 2,
+            "address": "997 West Lake St" ,
+            "squareFootage": 800,
+            "handicapAccessible": true 
+        },
+        {
+            "id": 3,
+            "address": "100 Main Street" ,
+            "squareFootage": 1000,
+            "handicapAccessible": true
+        },
+        {
+            "id": 4,
+            "address": "404 Street place" ,
+            "squareFootage": 20,
+            "handicapAccessible": false 
+        }
+    ],
+    "employees": [
+        {
+
+        }
+    ],
+    "productTypes": [
+        {
+            "id": 1,
+            "productType": "Hard Candy"
+        },
+        {
+            "id": 2,
+            "productType": "Gum"
+        },
+        {
+            "id": 3,
+            "productType": "Chocolate"
+        },
+        {
+            "id": 4,
+            "productType": "Soda"
+        }
+    ],
+    "customers": [
+        {
+
+        }
+    ]
+}
